@@ -1,2 +1,2 @@
 # architecture
-Sample Architecture
+AWS Architecture
