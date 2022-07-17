@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T10:01:43.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="f0gkGdChTY_5aY7H_pCx" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T10:02:53.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EmUa6bDsoJIIgW9uU-0q" version="20.1.1" type="github">
   <diagram id="ddb-kprN005Wt0hA2Xbe" name="DR Architecture">
     <mxGraphModel dx="1426" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-xat-Ccg4I1JxFuP80GP-122" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="790" height="1140" as="geometry" />
+          <mxGeometry x="10" y="30" width="790" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="-xat-Ccg4I1JxFuP80GP-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="-xat-Ccg4I1JxFuP80GP-122" source="-xat-Ccg4I1JxFuP80GP-31" target="-xat-Ccg4I1JxFuP80GP-127" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,7 +24,7 @@
           <mxGeometry x="60" y="115" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xat-Ccg4I1JxFuP80GP-1" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="-xat-Ccg4I1JxFuP80GP-122" vertex="1">
-          <mxGeometry x="30" y="216.5" width="720" height="890" as="geometry" />
+          <mxGeometry x="30" y="216.5" width="720" height="843.5" as="geometry" />
         </mxCell>
         <mxCell id="-xat-Ccg4I1JxFuP80GP-59" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=10;" parent="-xat-Ccg4I1JxFuP80GP-1" vertex="1">
           <mxGeometry x="30" y="150" width="280" height="660" as="geometry" />
