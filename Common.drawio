@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:07:54.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="neueClFc-ccZyTr5_vMJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T10:02:19.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="n4t76uH7Mm-gj-topj8N" version="20.1.1" type="github">
   <diagram id="AZgkyws2W7R_N9yS9WG-" name="Common Architecture">
-    <mxGraphModel dx="1156" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="20" y="210" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N06IJC54E89xGtOMu8dl-15" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="40" width="1060" height="760" as="geometry" />
+          <mxGeometry x="90" y="60" width="1060" height="720" as="geometry" />
         </mxCell>
         <mxCell id="N06IJC54E89xGtOMu8dl-4" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="N06IJC54E89xGtOMu8dl-15" vertex="1">
-          <mxGeometry x="60" y="60" width="960" height="660" as="geometry" />
+          <mxGeometry x="60" y="60" width="960" height="620" as="geometry" />
         </mxCell>
         <mxCell id="N06IJC54E89xGtOMu8dl-43" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="N06IJC54E89xGtOMu8dl-4" vertex="1">
           <mxGeometry x="50" y="356" width="890" height="227" as="geometry" />
