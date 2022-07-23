@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T23:54:21.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WV-rzvqJv5KLoOE489yj" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T23:59:23.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zwLZYU16myH857GovYsU" version="20.2.0" type="github">
   <diagram id="elm6IKrP-GeZ5sTSrlRr" name="페이지-1">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         <mxCell id="l1yp-xL4ellvuI0x8rVa-3" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="170" width="350" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="l1yp-xL4ellvuI0x8rVa-23" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-3">
-          <mxGeometry x="75" y="180" width="220" height="164" as="geometry" />
-        </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-22" value="CloudFront" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-3">
           <mxGeometry x="160" y="70" width="80" height="30" as="geometry" />
         </mxCell>
@@ -47,6 +44,36 @@
         </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-21" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="170" width="330" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-40" value="" style="group" vertex="1" connectable="0" parent="l1yp-xL4ellvuI0x8rVa-21">
+          <mxGeometry x="39.5" y="110" width="71" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-37" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-40">
+          <mxGeometry width="71" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-39" value="상품" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-40">
+          <mxGeometry x="15.5" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-41" value="" style="group" vertex="1" connectable="0" parent="l1yp-xL4ellvuI0x8rVa-21">
+          <mxGeometry x="129.5" y="110" width="71" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-42" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-41">
+          <mxGeometry width="71" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-43" value="주문" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-41">
+          <mxGeometry x="15.5" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-44" value="" style="group" vertex="1" connectable="0" parent="l1yp-xL4ellvuI0x8rVa-21">
+          <mxGeometry x="219.5" y="110" width="71" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-45" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-44">
+          <mxGeometry width="71" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-46" value="결제" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-44">
+          <mxGeometry x="15.5" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-49" value="Auto Scaling group" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=1;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=center;fontColor=#D86613;dashed=1;spacingTop=25;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-21">
+          <mxGeometry x="19.75" y="54" width="290.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-25" value="1단계 (AWS 온보딩)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="361" y="130" width="120" height="30" as="geometry" />
