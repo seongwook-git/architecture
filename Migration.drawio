@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T23:52:04.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RPxf0y3g2Qwe_cJ3YFtW" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T23:54:21.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WV-rzvqJv5KLoOE489yj" version="20.2.0" type="github">
   <diagram id="elm6IKrP-GeZ5sTSrlRr" name="페이지-1">
-    <mxGraphModel dx="1666" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
           <mxGeometry x="38" y="140" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-3" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="772" y="170" width="350" height="410" as="geometry" />
+          <mxGeometry x="785" y="170" width="350" height="410" as="geometry" />
         </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-23" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="l1yp-xL4ellvuI0x8rVa-3">
           <mxGeometry x="75" y="180" width="220" height="164" as="geometry" />
@@ -52,7 +52,13 @@
           <mxGeometry x="361" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1yp-xL4ellvuI0x8rVa-26" value="2단계 (AWS 현대화)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="772" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="785" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-35" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;dashed=1;rotation=-180;arrowWidth=0.5;arrowSize=0.52;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1yp-xL4ellvuI0x8rVa-36" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;dashed=1;rotation=-180;arrowWidth=0.5;arrowSize=0.52;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="701" y="340" width="71" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
