@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T05:48:30.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_DT6kq1F_noLP1RkzNh7" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T05:48:51.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6otzvx80CpN_C5DduR8O" version="20.2.0" type="github">
   <diagram id="Zue_eKCFJt0pqccLzbwO" name="페이지-1">
     <mxGraphModel dx="2325" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="9HHPdQ6lVdwMARaH89F9-77" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
           <mxGeometry x="-1153" y="-1537" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9HHPdQ6lVdwMARaH89F9-163" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1153" y="-1500" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
